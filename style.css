@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.container-top{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+}
+
+.intro-container{
+    
+}
+
+ul,
+.hero-text{
+    font-size: 18px;
+}
