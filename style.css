@@ -57,3 +57,14 @@ ul,
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button{
+    padding: 4px 20px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    color: white;
+}
+
+button.sign-up{
+    border: 1px solid #3882f6;
+}
