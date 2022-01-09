@@ -44,6 +44,7 @@ img.placeholder{
     height: 200px;
     background-color: grey;
     text-align: center;
+    border: 0;
 }
 
 .hero-main{
@@ -68,3 +69,32 @@ button{
 button.sign-up{
     border: 1px solid #3882f6;
 }
+
+.info-header{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+}
+
+.information-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image-info{
+    max-width: 200px;
+    text-align: center;
+    color: rgb(88, 88, 88);
+}
+
