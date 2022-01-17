@@ -122,5 +122,33 @@ img{
     font-size: 20px;
 }
 
+.sign-up-container{
+    display: flex;
+    margin: 100px 400px;
+    background-color: #3882f6;
+    padding: 25px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 200px
+}
+
+.call-title{
+    font-size: 20px;
+    color: #F9FAF8;
+    font-weight: bolder;
+
+}
+
+.call-description{
+    color: #F9FAF8;
+}
+
+button.call-sign-up{
+    border: 2px solid #F9FAF8;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 
 
